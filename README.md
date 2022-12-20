@@ -86,7 +86,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 	<a href="https://www.upwork.com/freelancers/sandeepp9?viewMode=1">
-		<img alt="Upwork" src="https://img.shields.io/badge/Upwork-4FCE5D?style=for-the-badge&logo=gmail&logoColor=white" />
+		<img alt="Upwork" src="https://img.shields.io/badge/Upwork-4FCE5D?style=for-the-badge&logo=upwork&logoColor=white" />
 	</a>
 	
 </p> 
