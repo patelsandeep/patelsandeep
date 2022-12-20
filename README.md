@@ -49,7 +49,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 <br>
 
 ## Projects worked for:
-<div>
+<div align="center">
 <video src='https://user-images.githubusercontent.com/103916464/205277970-77c0d7a7-e182-40ca-a13a-5bda97322df4.mp4' >
 </div>
 
