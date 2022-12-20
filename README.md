@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-I'm Sandeep Patel, a passioznate Mobile Application Developer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the user experience, product architecture, and code quality of the things I build.
+I'm Sandeep Patel, a passioznate Mobile and Web Application Developer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the user experience, product architecture, and code quality of the things I build.
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source, many thanks!.
 
