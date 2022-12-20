@@ -34,10 +34,18 @@ I learned a lot from the open-source community and I love how collaboration and 
 <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white'/>
 <img src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white'/>
 </div>
+
 ##### Web Technologies:
 <div>
 <img src='https://img.shields.io/badge/Spring Boot-02569B?style=for-the-badge&logo=springboot&logoColor=white'/>	
+<img src='https://img.shields.io/badge/Redis-02569B?style=for-the-badge&logo=redis&logoColor=white'/>	
+<img src='https://img.shields.io/badge/MongoDB-02569B?style=for-the-badge&logo=MongoDB&logoColor=white'/>	
+<img src='https://img.shields.io/badge/Kafka-02569B?style=for-the-badge&logo=Kafka&logoColor=white'/>	
+<img src='https://img.shields.io/badge/AWS-02569B?style=for-the-badge&logo=AWS&logoColor=white'/>
+<img src='https://img.shields.io/badge/Kubernetes-02569B?style=for-the-badge&logo=Kubernetes&logoColor=white'/>
+<img src='https://img.shields.io/badge/Docker-02569B?style=for-the-badge&logo=Docker&logoColor=white'/>
 </div>
+
 ##### Tools:
 <div>
 <img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white'/>
